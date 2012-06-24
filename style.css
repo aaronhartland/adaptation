@@ -152,8 +152,8 @@ body {
 ------------------------------------------------------------ */
 
 #wrap {
-	background-color: #FFFFFF;
-	box-shadow: 0 3px 4px #999999;
+	background-color: #fff;
+	box-shadow: 0 3px 4px #999;
 	margin: 30px auto;
 	padding: 25px;
 	width: 930px;
@@ -164,7 +164,7 @@ body {
 ------------------------------------------------------------ */
 
 #header {
-	border-bottom: 3px double #DDDDDD;
+	border-bottom: 3px double #ddd;
 	min-height: 110px;
 	padding-bottom: 10px;
 	width: 930px;
